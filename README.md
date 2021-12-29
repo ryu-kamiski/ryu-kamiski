@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryu-kamiski
-- 👀 I’m interested in JavaScript (currently).
+- 👀 I’m interested in UI/UX Design, Music and (obviously) **code**.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on after I'm able to use JavaScript fluently like it's my second brain.
 - 📫 You can reach me with the the email asuskr25@gmail.com.

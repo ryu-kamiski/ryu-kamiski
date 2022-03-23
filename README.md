@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryu-kamiski
+- 👋 Hi, I’m @ryu-kamish
 - 👀 I’m interested in UI/UX Design and **Frontend**.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on after I'm able to use JavaScript fluently like it's my second brain.
